@@ -5,7 +5,7 @@
 1. Clone the repository to a local machine
 2. Run `npm install` or `sudo npm install` depending on your OS, to install necessary dependencies of the project
 3. Run `npm start` to start the NodeJS local server
-4. Head to your [Local Server](http://localhost:3000/)
+4. Server runs on port 3000, Head to your [Local Server](http://localhost:3000/) (http://localhost:3000/)
 5. Make sure that your network connection is stable throughout the whole installation and usage processes
 
 ## User guide
